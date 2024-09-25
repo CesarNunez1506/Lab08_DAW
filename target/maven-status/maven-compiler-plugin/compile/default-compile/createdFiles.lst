@@ -1,0 +1,7 @@
+Car\DBConfig.class
+com\mycompany\lab08\JakartaRestConfiguration.class
+Car\Car.class
+Car\CarDAOImpl.class
+com\mycompany\lab08\resources\JakartaEE8Resource.class
+Car\CarController.class
+Car\CarDAO.class
